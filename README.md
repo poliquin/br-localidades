@@ -11,11 +11,11 @@ Usage
 
 1. Download the data using the bash script:
 
-    ./download.sh
+        ./download.sh
 
 2. Convert to CSV using the Python script:
 
-    ./localpoints.py
+        ./localpoints.py
 
 The `download.sh` file will download everything to a `data/` folder.
 The `localpoints.py` file will write a CSV file to an `out/` folder.
