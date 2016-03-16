@@ -1,0 +1,12 @@
+
+*.pyc
+__pycache__/
+
+data/
+out/
+
+.DS_Store
+.listing
+
+*.out
+*.log
