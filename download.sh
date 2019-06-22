@@ -2,7 +2,7 @@
 
 # Download shapefile of Brazilian locations from IBGE for 2010
 
-server="ftp://geoftp.ibge.gov.br/organizacao_territorial/localidades"
+server="ftp://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/localidades"
 opts="-m -N -nd -np -nv --wait=0.5 --random-wait -P data/"
 
 mkdir -p data
